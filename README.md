@@ -78,6 +78,7 @@ To destroy the infrastructure managed by Terraform, run:
 terraform destroy
 
 ```
+### The Resources From Console.
 1. **instances**
    ![](https://github.com/omaRouby/Terraform-ReverseProxy/blob/main/pictures/instances.png)
 
