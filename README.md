@@ -16,6 +16,7 @@ This project sets up a VPC with an infrastructure containing:
 - [Plan](#plan)
 - [Apply](#apply)
 - [Destroy](#destroy)
+- [The Resources From Console](#console)
 
 
 ## Prerequisites
